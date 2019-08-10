@@ -14,7 +14,7 @@ class App extends Component {
         <div className="Board">
           <Cell number={3} />
           <Cell number={4} />
-          <Cell number={4} />
+          <Cell number={5} />
           <Cell number={4} />
           <Cell number={4} />
           <Cell number={4} />
